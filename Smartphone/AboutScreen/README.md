@@ -8,7 +8,7 @@ The AboutScreen Control will allow you to show a beautiful and standard about sc
 
 ![AboutScreen 9900](https://github.com/blackberry/WebWorks-Community-APIs/raw/master/Smartphone/AboutScreen/screenshot_9900.png)
 
-![AboutScreen 9800](https://github.com/blackberry/WebWorks-Community-APIs/raw/master/Smartphone/AboutScreen/screenshot_9810.png)
+![AboutScreen 9800](https://github.com/blackberry/WebWorks-Community-APIs/raw/master/Smartphone/AboutScreen/screenShot_9810.png)
 
 ## Tested On ##
 
